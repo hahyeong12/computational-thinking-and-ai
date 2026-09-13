@@ -173,4 +173,4 @@ AI의 요약만 확인하는 것이 아니라
 
 ## Report
 
-- [Generative AI Tools and Ethics Report](./report/genai_tools_and_ethics_report.docx)
+- [Generative AI Tools and Ethics Report](./report/genai_tools_and_ethics_report.pdf)

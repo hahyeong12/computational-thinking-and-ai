@@ -126,4 +126,4 @@ MNIST 분류 성능이 향상되는 것을 확인했다.
 
 ## Report
 
-- [MNIST Model Comparison Report](./report/mnist_model_comparison_report.docx)
+- [MNIST Model Comparison Report](./report/mnist_model_comparison_report.pdf)

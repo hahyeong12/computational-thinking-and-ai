@@ -305,5 +305,5 @@ prediction = model.predict(new_input)
 ## Files
 
 - [FashionMNIST Classification Notebook](./practice/fashion_mnist_classification.ipynb)
-- [Baseline MLP Report](./report/fashion_mnist_baseline_report.docx)
-- [Model Improvement Report](./report/fashion_mnist_improvement_report.docx)
+- [Baseline MLP Report](./report/fashion_mnist_baseline_report.pdf)
+- [Model Improvement Report](./report/fashion_mnist_improvement_report.pdf)
